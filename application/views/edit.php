@@ -8,6 +8,6 @@
   <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>/static/css/default.css"> aaaa
 </head>
 <body>
-  
+  bbbbbbbcccc
 </body>
 </html>
