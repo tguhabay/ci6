@@ -1,0 +1,49 @@
+body{
+  margin-top:200px;
+}
+.main_container{
+  width:500px;
+  margin:0 auto;
+}
+.posts_container{
+  height:390px;
+  overflow-x:hidden;
+  overflow-y:auto;
+}
+input{
+  border:1px solid #dedede;
+}
+.intext{
+  width:450px;
+}
+.item{
+  border-bottom:1px dotted #dedede;
+  padding-top:10px;
+}
+.post_item{
+  font-size:11px;
+  font-weight:bold;
+  width:380px;
+  height:10px;
+  padding:5px 0;
+  float:left;
+}
+.post_item_sekolah{
+  font-size:11px;
+  font-weight:bold;
+  width:380px;
+  height:25px;
+  padding:5px 0;
+  float:left;
+}
+.post_item_date{
+  font-size:10px;
+  width:100px;
+  height:10px;
+  float:left;
+  padding:5px 0;
+}
+.clearfix{
+  display:block;
+  clear:both;
+}
