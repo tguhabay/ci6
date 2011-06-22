@@ -6,4 +6,5 @@ echo 'aaa';
 echo 'bbbb';
 echo 'ccccc';
 echo 'dddd';
+aaa
 ?>
